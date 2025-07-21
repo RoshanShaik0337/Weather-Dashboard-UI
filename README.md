@@ -32,7 +32,7 @@ This project currently exists as a static dashboard mockup. You can:
 
 ## 📁 File Structure
 
-- `dashboard_screenshot.png` – Visual overview of the report
+- `weather_Report.png` – Visual overview of the report
 - `README.md` – This documentation
 
 ## 🧠 Tools Used
